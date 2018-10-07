@@ -1,5 +1,5 @@
 {
-    "name": "stajor/iherb",
+    "name": "stajor/iherb-api",
     "description": "iHerb Affiliate",
     "type": "library",
     "require": {
